@@ -12,10 +12,10 @@ translations:
     t: Entre em contato
 
   - key: homepage.other_surveys
-    t: 'Outras Pesquisas:'
+    t: "Outras Pesquisas:"
 
   - key: homepage.previous_years
-    t: 'Anos Anteriores:'
+    t: "Anos Anteriores:"
 
   - key: homepage.take_survey
     t: Responder à pesquisa
@@ -29,28 +29,26 @@ translations:
   - key: share.help_spread
     t: Ajude a espalhar a palavra!
 
-
-
   - key: homepage.survey_open_now
-    t: Currently Open
+    t: Atualmente aberto
 
   - key: homepage.survey_preview
-    t: Preview Survey
+    t: Pré-visualizar pesquisa
 
   - key: homepage.most_recent_survey
-    t: Most Recent
+    t: Mais Recente
 
   - key: homepage.current_survey
-    t: Current Survey
+    t: Pesquisa Atual
 
   - key: homepage.past_surveys
-    t: Past Surveys
+    t: Pesquisa Anterior
 
   - key: homepage.view_questions
-    t: View Questions
+    t: Ver Perguntas
 
   - key: homepage.preview_questions
-    t: Preview Questions
+    t: Pré-visualizar Perguntas
 
   # newsletter
   - key: newsletter.stay_tuned
@@ -65,7 +63,7 @@ translations:
 
   # languages
   - key: languages.available_languages
-    t: 'Idiomas disponíveis:'
+    t: "Idiomas disponíveis:"
   - key: languages.help_us_translate
     t: Ajude-nos a traduzir a pesquisa para o seu idioma →
 
@@ -78,8 +76,7 @@ translations:
     aliasFor: general.made_by_devographics
   - key: homepage.netlify_link
     aliasFor: general.netlify_link
-  - key: homepage.leave_issue
-    aliasFor: general.leave_issue
+
   - key: homepage.join_discord
     aliasFor: general.join_discord
   - key: homepage.astro_link
